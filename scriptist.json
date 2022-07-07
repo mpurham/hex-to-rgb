@@ -1,0 +1,25 @@
+{
+	"name": "Hex to RGB",
+	"description": "Convert color in hexadecimal to RGB",
+	"version": "1.0.0",
+	"tags": [
+		"hex",
+		"color",
+		"rgb",
+        "convert"
+	],
+	"homepage": "https://polypad.io",
+	"license": "GPL",
+    "type": "script",
+	"authors": [
+		{
+			"name": "Venkat"
+		}
+	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/mpurham/hex-to-rgb"
+		}
+	]
+}
